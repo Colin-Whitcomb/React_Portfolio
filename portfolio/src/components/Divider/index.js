@@ -3,7 +3,7 @@ import './style.css';
 
 function Divider() {
     return (
-        <div className="divider">
+        <div className="divider mt-3 mb-1">
             <h1 className="text-center align middle">Individual Work</h1>
         </div>
     )
