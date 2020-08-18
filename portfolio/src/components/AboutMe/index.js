@@ -4,7 +4,7 @@ import './style.css';
 
 function AboutMe() {
     return (
-        <div className="container border mt-4">
+        <div className="container border mt-4"  id="aboutMe">
             <div class="media">
                  <img class="mr-3 headShot rounded" src={headshot} alt="headShot"/>
                     <div class="media-body">

@@ -8,7 +8,7 @@ function Cards() {
     
     return(
     
-    <div className="container border mt-2">
+    <div className="container border mt-2" id="projects">
 
 <br/>   
         <h3 className="text-center">Team Projects</h3>

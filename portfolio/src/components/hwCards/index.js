@@ -4,7 +4,7 @@ import './style.css';
 
 function HomeworkCards() {
     return(
-        <div className="container border mt-4">
+        <div className="container border mt-4" id="assignments">
             <br/>
             <h3 className="text-center">Additional Assignments</h3>
             <br/><br/>

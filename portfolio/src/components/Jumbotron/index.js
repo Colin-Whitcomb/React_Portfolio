@@ -12,8 +12,8 @@ function Jumbotron() {
                 <div className="row">
                     <div className="col-sm-12 offset-2">
                         <h1 className="display-4 d-inline">Colin Whitcomb</h1> 
-                        
-                        <a className="btn mr-2 ml-2 mb-4" href="https://www.linkedin.com/in/colin-whitcomb/" target="_blank">
+
+                        <a className="btn mb-4" href="https://www.linkedin.com/in/colin-whitcomb/" target="_blank">
                             <img className='btn linkImg' src={gitHubLogo}/>
                         </a>
 
