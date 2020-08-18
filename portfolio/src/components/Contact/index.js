@@ -2,7 +2,7 @@ import React from 'react';
 
 function Contact() {
     return (
-        <div className="container border mt-4">
+        <div className="container mt-4">
             <h4 className='text-center'>Want to connect?</h4>
                     
             <div className="row">

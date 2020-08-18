@@ -5,3 +5,11 @@
 .hw_img {
     height: 26vh;
 }
+
+#assignments {
+    background-color: lightslategrey;
+}
+
+.hwHeader {
+    color: white;
+}

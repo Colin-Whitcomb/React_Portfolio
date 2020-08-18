@@ -7,3 +7,9 @@
     max-width: 270px;
     max-height: 390px;
 }
+
+#teamHeading {
+    background-color: lightslategrey;
+    min-height: 10vh;
+    color:white;
+}

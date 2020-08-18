@@ -8,10 +8,10 @@ function Cards() {
     
     return(
     
-    <div className="container border mt-2" id="projects">
+    <div className="container mt-2" id="projects">
 
 <br/>   
-        <h3 className="text-center">Team Projects</h3>
+        <h2 className="text-center align-middle" id="teamHeading">Team Projects</h2>
 
         <br/><br/>
 
@@ -29,7 +29,7 @@ function Cards() {
                         <div class="col-md-6 sm-12">
 
                             <div className='row'>
-                            <h4 class="card-text align-text-bottom text-center">WiP is a goal oriented progress tracker app that helps the user divide and conquer goals.</h4>
+                            <h4 class="card-text align-text-bottom ml-3">WiP is a goal oriented progress tracker app that helps the user divide and conquer goals.</h4>
                                  
                             
                             

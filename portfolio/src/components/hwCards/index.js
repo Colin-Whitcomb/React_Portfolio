@@ -6,12 +6,12 @@ function HomeworkCards() {
     return(
         <div className="container border mt-4" id="assignments">
             <br/>
-            <h3 className="text-center">Additional Assignments</h3>
+            <h2 className="text-center hwHeader">Additional Assignments</h2>
             <br/><br/>
 
             {/* Sushi Lover */}
             <div className="row">
-                <div className="col-xs-12 col-md-6 col-lg-4">
+                <div className="col-xs-12 col-md-6 col-lg-4 mt-4">
                     <div class="card mt-2 hw">
                         <img class="card-img-top hw_img" src="https://media.giphy.com/media/SU8qHfqp7zL67I1nnW/giphy.gif" alt="Card image cap"/>
                             <div class="card-body">
@@ -29,7 +29,7 @@ function HomeworkCards() {
                 </div>
 
             {/* WorkDay Scheduler */}
-                  <div className="col-xs-12 col-md-6 col-lg-4">
+                  <div className="col-xs-12 col-md-6 col-lg-4 mt-4">
                     <div class="card mt-2 hw">
                         <img class="card-img-top hw_img" src="https://media.giphy.com/media/hQW9Nq5uIqssFubgCX/giphy.gif" alt="Card image cap"/>
                             <div class="card-body">
@@ -47,7 +47,7 @@ function HomeworkCards() {
                 </div>
 
             {/* Password Generator */}       
-                <div className="col-xs-12 col-md-6 col-lg-4">
+                <div className="col-xs-12 col-md-6 col-lg-4 mt-4">
                     <div class="card mt-2 hw">
                         <img class="card-img-top hw_img" src="https://media.giphy.com/media/j32q28FDoKZNHHQoSt/giphy.gif" alt="Card image cap"/>
                             <div class="card-body">
@@ -64,9 +64,9 @@ function HomeworkCards() {
                             </div>
                     </div>
                 </div>
-            
+           
              {/* Note Taker */}
-             <div className="col-xs-12 col-md-6 col-lg-4 offset-lg-2">
+             <div className="col-xs-12 col-md-6 col-lg-4 offset-lg-2 mt-4 mb-4">
                     <div class="card mt-2 hw">
                         <img class="card-img-top" src="https://media.giphy.com/media/UqSKAHTqSRMlx8ywwW/giphy.gif" alt="Card image cap"/>
                             <div class="card-body">
@@ -83,7 +83,7 @@ function HomeworkCards() {
                 </div>
 
             {/* Employee Tracker */}
-             <div className="col-xs-12 col-md-6 col-lg-4">
+             <div className="col-xs-12 col-md-6 col-lg-4 mt-4 mb-4">
                     <div class="card mt-2 hw mb-3">
                         <img class="card-img-top" src="https://media.giphy.com/media/Y1Ac1jXxBcxPmvneBi/giphy.gif" alt="Card image cap"/>
                             <div class="card-body">
