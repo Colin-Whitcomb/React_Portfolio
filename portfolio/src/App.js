@@ -5,6 +5,7 @@ import Cards from './components/Cards';
 // import Divider from './components/Divider';
 import HomeworkCards from './components/hwCards'
 import DividerTwo from './components/DividerTwo'
+import AboutMe from './components/AboutMe'
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
      <Cards/>
      <HomeworkCards/>
      <DividerTwo/>
+     <AboutMe/>
    </div>
    
   )
