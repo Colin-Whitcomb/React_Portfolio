@@ -14,7 +14,7 @@ function HomeworkCards() {
                                 <p class="card-text"><b>Sushi Lover</b> is an app that allows the user to add and "devour" it their
                                 favorite sushi order!</p>
 
-                                <div className='row'>
+                                <div className='row offset-1'>
                                 <a href="https://nameless-bastion-18794.herokuapp.com/" target="_blank" class="btn btn-primary">Deployed Site</a>
                             
                                 <a href="https://github.com/Colin-Whitcomb/sushi_lover" target="_blank" class="btn btn-primary ml-1">GitHub</a>
@@ -32,7 +32,7 @@ function HomeworkCards() {
                                 <p class="card-text"><b>Work Day Scheduler</b> is a great tool to help plan your daily work activities!
                                 </p>
 
-                                <div className='row'>
+                                <div className='row offset-1'>
                                 <a href="https://colin-whitcomb.github.io/work-day-scheduler/" target="_blank" class="btn btn-primary">Deployed Site</a>
                             
                                 <a href="https://github.com/Colin-Whitcomb/work-day-scheduler" target="_blank" class="btn btn-primary ml-1">GitHub</a>
@@ -51,7 +51,7 @@ function HomeworkCards() {
                                 numbers, and letters!
                                 </p>
 
-                                <div className='row'>
+                                <div className='row offset-1'>
                                 <a href="https://colin-whitcomb.github.io/password-generator/" target="_blank" class="btn btn-primary">Deployed Site</a>
                             
                                 <a href="https://github.com/Colin-Whitcomb/password-generator" target="_blank" class="btn btn-primary ml-1">GitHub</a>
@@ -68,7 +68,7 @@ function HomeworkCards() {
                             <div class="card-body">
                                 <p class="card-text"><b>Note Taker</b> is an app that allows users to save and delete notes. Great for lists!</p>
 
-                                <div className='row'>
+                                <div className='row offset-1'>
                                 <a href="https://boiling-eyrie-32722.herokuapp.com/" target="_blank" class="btn btn-primary">Deployed Site</a>
                             
                                 <a href="https://github.com/Colin-Whitcomb/note_taker" target="_blank" class="btn btn-primary ml-1">GitHub</a>
@@ -85,7 +85,7 @@ function HomeworkCards() {
                             <div class="card-body">
                                 <p class="card-text"><b>Employee Tracker</b> allows the user to update and mangage employee details!</p>
 
-                                <div className='row'>
+                                <div className='row offset-1'>
                                 <a href="https://boiling-eyrie-32722.herokuapp.com/" target="_blank" class="btn btn-primary">Deployed Site</a>
                             
                                 <a href="https://github.com/Colin-Whitcomb/note_taker" target="_blank" class="btn btn-primary ml-1">GitHub</a>
