@@ -1,9 +1,9 @@
 .card {
-    max-width: 700px;
+    max-width: 550px;
     opacity: 0.85
 }
 
-.gif {
-    max-width: 230px;
-    max-height: 330px;
+.img {
+    max-width: 270px;
+    max-height: 390px;
 }
