@@ -84,7 +84,7 @@ function HomeworkCards() {
 
             {/* Employee Tracker */}
              <div className="col-xs-12 col-md-6 col-lg-4">
-                    <div class="card mt-2 hw">
+                    <div class="card mt-2 hw mb-3">
                         <img class="card-img-top" src="https://media.giphy.com/media/Y1Ac1jXxBcxPmvneBi/giphy.gif" alt="Card image cap"/>
                             <div class="card-body">
                                 <p class="card-text"><b>Employee Tracker</b> allows the user to update and mangage employee details!</p>
