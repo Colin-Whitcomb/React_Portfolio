@@ -38,9 +38,16 @@ function Cards() {
                                 </div>
                                 <br/>  <br/>  <br/>  
                                 <div class="col-xs-5 offset-1 mt-3">
-                                    <button className="btn btn-dark">Deployed Link</button>
+                                    <a href="https://vast-hollows-48558.herokuapp.com" target="_blank">
+                                        <button className="btn btn-dark">Deployed Link</button>
+                                    </a>
+
                                         <br/> <br/>
-                                    <button className="btn btn-dark">GitHub</button>
+
+                                    <a href="https://github.com/crackedsnowboard/project-maven" target="_blank">
+                                        <button className="btn btn-dark">GitHub</button>
+                                    </a>
+
                                 </div>
                             </div>
                         </div>
@@ -69,9 +76,16 @@ function Cards() {
                              </div>
 
                              <div class="col-xs-5 offset-1 mt-3">
-                                 <button className="btn btn-danger">Deployed Link</button>
-                                     <br/> <br/>
-                                 <button className="btn btn-danger">GitHub</button>
+
+                                     <a href="https://gabesucich.github.io/Project1_CGJK/" target="_blank">
+                                        <button className="btn btn-dark">Deployed Link</button>
+                                    </a>
+
+                                        <br/> <br/>
+
+                                    <a href="https://github.com/Colin-Whitcomb/Project1_CGJK" target="_blank">
+                                        <button className="btn btn-dark">GitHub</button>
+                                    </a>
                              </div>
                          </div>
                      </div>
