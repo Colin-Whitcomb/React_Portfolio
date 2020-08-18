@@ -10,6 +10,7 @@ function Cards() {
     
     <div className="container border">
 
+<br/>   
         <h3 className="text-center">Team Projects</h3>
 
         <br/><br/>
@@ -75,6 +76,7 @@ function Cards() {
                          </div>
                      </div>
              </div>
+             <br/>
     </div>
     
     )
