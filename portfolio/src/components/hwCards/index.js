@@ -4,7 +4,11 @@ import './style.css';
 
 function HomeworkCards() {
     return(
-        <div className="container">
+        <div className="container border mt-4">
+            <br/>
+            <h3 className="text-center">Additional Assignments</h3>
+            <br/><br/>
+
             {/* Sushi Lover */}
             <div className="row">
                 <div className="col-xs-12 col-md-6 col-lg-4">

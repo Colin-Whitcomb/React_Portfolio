@@ -2,8 +2,9 @@ import React from 'react';
 import Navbar from './components/Navbar';
 import Jumbotron from './components/Jumbotron';
 import Cards from './components/Cards';
-import Divider from './components/Divider';
+// import Divider from './components/Divider';
 import HomeworkCards from './components/hwCards'
+import DividerTwo from './components/DividerTwo'
 
 
 function App() {
@@ -12,8 +13,8 @@ function App() {
      <Navbar/>
      <Jumbotron/>
      <Cards/>
-     <Divider/>
      <HomeworkCards/>
+     <DividerTwo/>
    </div>
    
   )
