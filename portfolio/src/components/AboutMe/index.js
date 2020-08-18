@@ -11,12 +11,13 @@ function AboutMe() {
                         <h3 class="mt-0 text-center">About Me</h3>
                         <h6>After graduating from UC Berkeley in December, 2019 (B.A in
 				            Music with Honors) I dove into the world of web development.
-				            I enrolled in theUC Berkeley Extension Full-Stack Coding Bootcamp.
+				            I enrolled in the UC Berkeley Extension Full-Stack Coding Bootcamp.
 				                <br/><br/>
                             Although the semester is still in
                             progress, I will be looking into software engineer positions as well as technical
                             project management roles.
                         </h6>
+
                     </div>
             </div>
         </div>
