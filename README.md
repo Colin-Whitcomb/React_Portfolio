@@ -2,7 +2,7 @@
 
 
 <h2 align="center">
-Deployed <a href="https://colin-whitcomb.github.io/React_Portfolio/">Site</a>
+Deployed <a href="https://media.giphy.com/media/QWordR2qhRfVvwiTOE/giphy.gif">Site</a>
 </h2>
 
 <p align="center">
