@@ -6,7 +6,7 @@ Deployed <a href="https://colin-whitcomb.github.io/React_Portfolio/">Site</a>
 </h2>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/dC2VvV0FE6L49dsjEc/giphy.gif" width="240"/>
+    <img src="https://media.giphy.com/media/QWordR2qhRfVvwiTOE/giphy.gif" width="240"/>
 </p>
 
 
