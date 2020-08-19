@@ -2,11 +2,11 @@
 
 
 <h2 align="center">
-Deployed <a href="https://media.giphy.com/media/QWordR2qhRfVvwiTOE/giphy.gif">Site</a>
+Deployed <a href="https://colin-whitcomb.github.io/React_Portfolio/">Site</a>
 </h2>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/SsCbPEnIZBsoONJa4H/giphy.gif" width="300"/>
+    <img src="https://media.giphy.com/media/QWordR2qhRfVvwiTOE/giphy.gif" width="300"/>
 </p>
 
 
