@@ -10,7 +10,7 @@ Projects
 </h3>
 
 <p align="center">
-    <img src="portfolio/images/ss3.png" width="300" />
+    <img src="portfolio/images/ss3.png" width="400" />
 </p>
 
 ## Summary & Processs
@@ -30,7 +30,7 @@ Top of Page - Includes links to Github / LinkedIn
 
 
 <p align="center">
-    <img src="portfolio/images/ss1.png" width="300" />
+    <img src="portfolio/images/ss1.png" width="400" />
 </p>
 
 <h3 align="center">
@@ -38,7 +38,7 @@ About Me / Contact
 </h3>
 
 <p align="center">
-    <img src="portfolio/images/ss4.png" width="300" />
+    <img src="portfolio/images/ss4.png" width="400" />
 </p>
 
 
