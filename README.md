@@ -1,14 +1,17 @@
 # React_Portfolio
 
 
-<h2 align="center">
+<h2>
 Deployed <a href="https://colin-whitcomb.github.io/React_Portfolio/">Site</a>
 </h2>
 
-<p align="center">
-    <img src="https://media.giphy.com/media/jRqeSoKlyfeRpQ7LBs/giphy.gif" width="290"/>
-</p>
+<h3 align="center">
+Projects
+</h3>
 
+<p align="center">
+    <img src="portfolio/images/ss3.png" width="300" />
+</p>
 
 ## Summary & Processs
 
@@ -28,14 +31,6 @@ Top of Page - Includes links to Github / LinkedIn
 
 <p align="center">
     <img src="portfolio/images/ss1.png" width="300" />
-</p>
-
-<h3 align="center">
-Project Section
-</h3>
-
-<p align="center">
-    <img src="portfolio/images/ss3.png" width="300" />
 </p>
 
 <h3 align="center">
