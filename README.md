@@ -30,7 +30,7 @@ Top of Page - Includes links to Github / LinkedIn
 
 
 <p align="center">
-    <img src="portfolio/images/ss1.png" width="400" />
+    <img src="portfolio/images/ss5.png" width="400" />
 </p>
 
 <h3 align="center">
