@@ -15,7 +15,7 @@ function HomeworkCards() {
                     <div class="card mt-2 hw">
                         <img class="card-img-top hw_img" src="https://media.giphy.com/media/SU8qHfqp7zL67I1nnW/giphy.gif" alt="Card image cap"/>
                             <div class="card-body">
-                                <p class="card-text"><b>Sushi Lover</b> is an app that allows the user to add and "devour" it their
+                                <p class="card-text"><b>Sushi Lover</b> is an app that allows the user to add and "devour" their
                                 favorite sushi order!</p>
 
                                 <div className='row offset-1'>

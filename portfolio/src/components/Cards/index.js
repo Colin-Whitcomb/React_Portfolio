@@ -11,7 +11,7 @@ function Cards() {
     <div className="container mt-2" id="projects">
 
 <br/>   
-        <h2 className="text-center align-middle" id="teamHeading">Team Projects</h2>
+        <h2 className="text-center mt-6" id="teamHeading">Team Projects</h2>
 
         <br/><br/>
 
