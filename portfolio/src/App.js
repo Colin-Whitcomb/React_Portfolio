@@ -15,10 +15,10 @@ function App() {
    <div>
      <Navbar/>
      <Jumbotron/>
+     <AboutMe/>
      <Cards/>
      <HomeworkCards/>
      {/* <DividerTwo/> */}
-     <AboutMe/>
      <Contact/>
      <Footer/>
    </div>
