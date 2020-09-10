@@ -9,6 +9,7 @@ import AboutMe from './components/AboutMe';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import Technical from './components/Technical';
+import BackgroundOne from './components/BackgroundOne';
 
 
 function App() {
