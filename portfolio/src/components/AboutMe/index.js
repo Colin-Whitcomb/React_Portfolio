@@ -9,13 +9,9 @@ function AboutMe() {
                  <img class="mr-3 headShot rounded" src={headshot} alt="headShot"/>
                     <div class="media-body">
                         <h3 class="mt-0 text-center">About Me</h3>
-                        <h6>After graduating from UC Berkeley in December, 2019 (B.A in
-				            Music with Honors) I dove into the world of web development.
-				            I enrolled in the UC Berkeley Extension Full-Stack Coding Bootcamp.
+                        <h6>Full Stack Web Developer with previous experience in Music Education. Effective communicator and passionate about optimizing team strategies. Self-motivated and goal-oriented to ensure work upholds high standards.
 				                <br/><br/>
-                            Although the semester is still in
-                            progress, I will be looking into software engineer positions as well as technical
-                            project management roles.
+                                For the past 8 years, I've been teaching percussion to a variety of students from middle school through college in both southern and northern California. Recently, however, I have pivoted my career into Full Stack Web Development by enrolling in the UCB Extension's Coding Bootcamp! 
                         </h6>
 
                     </div>

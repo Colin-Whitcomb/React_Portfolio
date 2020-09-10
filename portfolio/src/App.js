@@ -8,6 +8,7 @@ import HomeworkCards from './components/hwCards';
 import AboutMe from './components/AboutMe';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import Technical from './components/Technical';
 
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
      <Navbar/>
      <Jumbotron/>
      <AboutMe/>
+     <Technical/>
      <Cards/>
      <HomeworkCards/>
      {/* <DividerTwo/> */}
