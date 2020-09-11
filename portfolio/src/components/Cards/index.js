@@ -16,7 +16,7 @@ function Cards() {
     {/* ------------- WiP ---------- */}
             <div className="row">
 
-                <div class="col-md-6 sm-12">
+                <div class="col-12 col-md-6 col-lg-4">
                     <p><span class='extraWords'><b>WIP</b></span> is a goal oriented progress tracker app that helps the user divide and conquer goals.</p>
                         <div class="card bg-dark text-white">
                             <img src={wip} className="card-img center-text" id='wipPic' alt="..."/>
@@ -34,8 +34,8 @@ function Cards() {
             <br></br>
     {/* ------------- MILES ---------- */}
        
-                <div class="col-md-6 sm-12">
-                        <p class="card-text"><span class='extraWords'><b>Miles</b></span> is an app designed to help find close and healthy eating destinations.</p>
+                <div class="col-12 col-md-6 col-lg-4">
+                        <p class="card-text"><span class='extraWords'><b>Miles</b></span> is an app designed to help users find close and healthy eating destinations.</p>
                             <div class="card bg-dark text-white">
                                 <img src={miles} class="card-img" id='milesPic' alt="..."/>
                             </div>
@@ -47,6 +47,25 @@ function Cards() {
                             <button className="btn btn-dark ml-1">GitHub</button>
                         </a>
                 </div>
+         
+            <br></br>
+            {/*  */}
+            <div class="col-12 col-md-6 col-lg-4">
+                    <p><span class='extraWords'><b>WIP</b></span> is a goal oriented progress tracker app that helps the user divide and conquer goals.</p>
+                        <div class="card bg-dark text-white">
+                            <img src={wip} className="card-img center-text" id='wipPic' alt="..."/>
+                        </div>
+
+                        <br></br>
+
+                        <a href="https://vast-hollows-48558.herokuapp.com" target="_blank" className='text-center'>
+                            <button className="btn btn-dark">Deployed Link</button>
+                        </a>
+                        <a href="https://github.com/crackedsnowboard/project-maven" target="_blank" className='text-center ml-1'>
+                            <button className="btn btn-dark">GitHub</button>
+                        </a>
+                </div>
+            <br></br>
             </div>
         <br/>
     </div>
