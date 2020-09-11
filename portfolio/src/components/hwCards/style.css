@@ -6,10 +6,11 @@
     height: 26vh;
 }
 
-#assignments {
-    background-color: lightslategrey;
+
+#workDayPic:hover {
+    content: url('https://media.giphy.com/media/hQW9Nq5uIqssFubgCX/giphy.gif');
 }
 
-.hwHeader {
-    color: white;
+#sushiLoverPic:hover {
+    content: url('https://media.giphy.com/media/SU8qHfqp7zL67I1nnW/giphy.gif');
 }

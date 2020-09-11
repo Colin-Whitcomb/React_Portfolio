@@ -12,8 +12,9 @@
 }
 
 .projectGif {
-    max-width: 230px;
-    max-height: 230px;
+    max-width: 330px;
+    max-height:200px;
+    min-height:190px;
 }
 
 .cardDiv {
