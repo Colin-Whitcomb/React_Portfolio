@@ -22,10 +22,10 @@ function HomeworkCards() {
 
                         <br></br>
 
-                        <a href="https://vast-hollows-48558.herokuapp.com" target="_blank" className='text-center'>
+                        <a href="https://nameless-bastion-18794.herokuapp.com/" target="_blank" className='text-center'>
                             <button className="btn btn-dark">Deployed Link</button>
                         </a>
-                        <a href="https://github.com/crackedsnowboard/project-maven" target="_blank" className='text-center ml-1'>
+                        <a href="https://github.com/Colin-Whitcomb/sushi_lover" target="_blank" className='text-center ml-1'>
                             <button className="btn btn-dark">GitHub</button>
                         </a>
                 </div>
@@ -34,7 +34,7 @@ function HomeworkCards() {
 
                 {/* WDS */}
                 <div class="col-12 col-md-6 col-lg-4 cardDiv">
-                    <p><span class='extraWords'><b>WorkdDay Scheduler</b></span> is a great tool to help plan your daily work activities!</p>
+                    <p><span class='extraWords'><b>WorkDay Scheduler</b></span> is a great tool to help plan your daily work activities!</p>
                                
                         <div class="card bg-dark text-white">
                             <img src='https://images.pexels.com/photos/7376/startup-photos.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500' className="card-img center-text" id='workDayPic' alt="..."/>
@@ -42,10 +42,10 @@ function HomeworkCards() {
 
                         <br></br>
 
-                        <a href="https://vast-hollows-48558.herokuapp.com" target="_blank" className='text-center'>
+                        <a href="https://colin-whitcomb.github.io/work-day-scheduler/" target="_blank" className='text-center'>
                             <button className="btn btn-dark">Deployed Link</button>
                         </a>
-                        <a href="https://github.com/crackedsnowboard/project-maven" target="_blank" className='text-center ml-1'>
+                        <a href="https://github.com/Colin-Whitcomb/work-day-scheduler" target="_blank" className='text-center ml-1'>
                             <button className="btn btn-dark">GitHub</button>
                         </a>
                 </div>
@@ -63,10 +63,10 @@ function HomeworkCards() {
 
                         <br></br>
 
-                        <a href="https://vast-hollows-48558.herokuapp.com" target="_blank" className='text-center'>
+                        <a href="https://colin-whitcomb.github.io/password-generator/" target="_blank" className='text-center'>
                             <button className="btn btn-dark">Deployed Link</button>
                         </a>
-                        <a href="https://github.com/crackedsnowboard/project-maven" target="_blank" className='text-center ml-1'>
+                        <a href="https://github.com/Colin-Whitcomb/password-generator" target="_blank" className='text-center ml-1'>
                             <button className="btn btn-dark">GitHub</button>
                         </a>
                 </div>
@@ -83,10 +83,10 @@ function HomeworkCards() {
 
                         <br></br>
 
-                        <a href="https://vast-hollows-48558.herokuapp.com" target="_blank" className='text-center'>
+                        <a href="https://boiling-eyrie-32722.herokuapp.com/" target="_blank" className='text-center'>
                             <button className="btn btn-dark">Deployed Link</button>
                         </a>
-                        <a href="https://github.com/crackedsnowboard/project-maven" target="_blank" className='text-center ml-1'>
+                        <a href="https://github.com/Colin-Whitcomb/note_taker" target="_blank" className='text-center ml-1'>
                             <button className="btn btn-dark">GitHub</button>
                         </a>
                 </div>
@@ -103,10 +103,7 @@ function HomeworkCards() {
 
                         <br></br>
 
-                        <a href="https://vast-hollows-48558.herokuapp.com" target="_blank" className='text-center'>
-                            <button className="btn btn-dark">Deployed Link</button>
-                        </a>
-                        <a href="https://github.com/crackedsnowboard/project-maven" target="_blank" className='text-center ml-1'>
+                        <a href="https://github.com/Colin-Whitcomb/Employee_Tracker" target="_blank" className='text-center ml-1'>
                             <button className="btn btn-dark">GitHub</button>
                         </a>
                 </div>

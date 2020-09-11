@@ -24,10 +24,10 @@ function Cards() {
 
                         <br></br>
 
-                        <a href="https://vast-hollows-48558.herokuapp.com" target="_blank" className='text-center'>
+                        <a href="https://fast-mesa-56626.herokuapp.com/" target="_blank" className='text-center'>
                             <button className="btn btn-dark">Deployed Link</button>
                         </a>
-                        <a href="https://github.com/crackedsnowboard/project-maven" target="_blank" className='text-center ml-1'>
+                        <a href="https://github.com/Colin-Whitcomb/InvestmentSimluator_1" target="_blank" className='text-center ml-1'>
                             <button className="btn btn-dark">GitHub</button>
                         </a>
                 </div>
