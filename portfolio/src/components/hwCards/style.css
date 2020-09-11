@@ -18,3 +18,7 @@
 #passwordPic:hover {
     content: url('https://media.giphy.com/media/j32q28FDoKZNHHQoSt/giphy.gif')
 }
+
+#noteTakerPic:hover {
+    content: url('https://media.giphy.com/media/UqSKAHTqSRMlx8ywwW/giphy.gif')
+}
