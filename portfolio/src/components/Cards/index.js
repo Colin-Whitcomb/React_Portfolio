@@ -31,10 +31,9 @@ function Cards() {
                             <button className="btn btn-dark">GitHub</button>
                         </a>
                 </div>
-            </div>
             <br></br>
     {/* ------------- MILES ---------- */}
-            <div className="row">
+       
                 <div class="col-md-6 sm-12">
                         <p class="card-text"><span class='extraWords'><b>Miles</b></span> is an app designed to help find close and healthy eating destinations.</p>
                             <div class="card bg-dark text-white">
@@ -48,8 +47,6 @@ function Cards() {
                             <button className="btn btn-dark ml-1">GitHub</button>
                         </a>
                 </div>
-
-            
             </div>
         <br/>
     </div>
