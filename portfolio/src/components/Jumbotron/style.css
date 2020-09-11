@@ -3,14 +3,15 @@
 }
 
 .jumbotron {
-    background-image: url("https://images.unsplash.com/photo-1541140134513-85a161dc4a00?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80");
+    background-image: url("https://images.unsplash.com/photo-1549645402-a9d655c5c344?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60");
     background-size: cover;
     padding: 2rem;
     margin-bottom: 0;
+    margin-top: 0;
   }
 
 .row {
-    background-color:rgba(255,255,255, 0.5);
+    background-color:rgba(255,255,255, 0.8);
 }
 
 .name {

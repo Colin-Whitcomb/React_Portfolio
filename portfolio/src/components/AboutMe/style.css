@@ -10,11 +10,15 @@ hr {
   }
 
 .aM {
-    background-color: rgb(235, 235, 235);
+    background-color:white;
+    /* background-image: url('https://images.unsplash.com/photo-1593826562629-79b6d8ff32a2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60');
+    background-image: cover; */
     margin-top: 0;
     padding-bottom: 1rem;
 }
 
-.row {
-    background-color: rgb(235, 235, 235);
+.row1 {
+    background-color: white ;
+    /* color: white; */
 }
+

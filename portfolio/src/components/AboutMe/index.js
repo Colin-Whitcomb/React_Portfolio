@@ -6,7 +6,7 @@ function AboutMe() {
     return (
         <div className="aM">
             <div className="container mt-4"  id="aboutMe">
-                <div className='row'>
+                <div className='row row1'>
 
                     <div className='col-lg-4 col-md-6'>
                         <div className='text-center'>
