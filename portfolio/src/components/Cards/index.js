@@ -17,7 +17,7 @@ function Cards() {
             <div className="row">
 
                 <div class="col-12 col-md-6 col-lg-4 cardDiv">
-                    <p><span class='extraWords'><b>WIP</b></span> Quan is an investment app aimed to help newer investers by providing a variety of strategies.</p>
+                    <p><span class='extraWords'><b>Quan</b></span> is an investment app that provides a variety of investment strategies.</p>
                         <div class="card bg-dark text-white">
                             <img src='https://fast-mesa-56626.herokuapp.com/static/media/QUANlogo.4d6575f4.png' className="card-img center-text" id='quanPic' alt="..."/>
                         </div>
