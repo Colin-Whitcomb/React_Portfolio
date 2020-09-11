@@ -6,7 +6,7 @@ import Cards from './components/Cards';
 import HomeworkCards from './components/hwCards';
 // import DividerTwo from './components/DividerTwo'
 import AboutMe from './components/AboutMe';
-import Contact from './components/Contact';
+// import Contact from './components/Contact';
 import Footer from './components/Footer';
 import Technical from './components/Technical';
 import TwoBackgrnd from './components/TwoBG';
@@ -26,7 +26,7 @@ function App() {
      <TwoBackgrnd></TwoBackgrnd>
      <HomeworkCards/>
      {/* <DividerTwo/> */}
-     <Contact/>
+     {/* <Contact/> */}
      <Footer/>
    </div>
    
