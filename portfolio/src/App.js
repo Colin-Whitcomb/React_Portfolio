@@ -9,7 +9,9 @@ import AboutMe from './components/AboutMe';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import Technical from './components/Technical';
+import TwoBackgrnd from './components/TwoBG';
 import BackgroundOne from './components/BackgroundOne';
+
 
 
 function App() {
@@ -19,7 +21,9 @@ function App() {
      <Jumbotron/>
      <AboutMe/>
      <Technical/>
+     <BackgroundOne></BackgroundOne>
      <Cards/>
+     <TwoBackgrnd></TwoBackgrnd>
      <HomeworkCards/>
      {/* <DividerTwo/> */}
      <Contact/>

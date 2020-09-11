@@ -4,7 +4,7 @@ import './style.css'
 function BackroundOne() {
     return (
         <div className='background'>
-
+.
         </div>
     )
 }

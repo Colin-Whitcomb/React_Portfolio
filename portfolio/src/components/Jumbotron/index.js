@@ -5,7 +5,7 @@ import "./style.css";
 
 function Jumbotron() {
     return (
-        <div className="jumbotron jumbotron-fluid">
+        <div className="jumbotron jumbotron-fluid mb-0">
             <div className="container">
     
 
