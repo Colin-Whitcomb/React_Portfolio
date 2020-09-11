@@ -14,3 +14,7 @@
 #sushiLoverPic:hover {
     content: url('https://media.giphy.com/media/SU8qHfqp7zL67I1nnW/giphy.gif');
 }
+
+#passwordPic:hover {
+    content: url('https://media.giphy.com/media/j32q28FDoKZNHHQoSt/giphy.gif')
+}
