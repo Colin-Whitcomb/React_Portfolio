@@ -1,15 +1,28 @@
 .card {
-    max-width: 550px;
+    max-width: 330px;
+    max-height:280px;
     opacity: 0.85
 }
 
-.img {
-    max-width: 270px;
-    max-height: 390px;
+.card-img {
+    max-width: 330px;
+    max-height:280px;
+
 }
 
-#teamHeading {
-    background-color: lightslategrey;
-    min-height: 10vh;
-    color:white;
+.projectGif {
+    max-width: 230px;
+    max-height: 230px;
+}
+
+.extraWords {
+    font-size: 120%;
+}
+
+#wipPic:hover {
+    content: url('https://media.giphy.com/media/IecI9ZHXpzb8kMXKQg/giphy.gif');
+}
+
+#milesPic:hover {
+    content: url('../../images/sr-pm.gif')
 }
