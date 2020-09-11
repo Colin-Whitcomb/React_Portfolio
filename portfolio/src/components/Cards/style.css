@@ -15,6 +15,10 @@
     max-height: 230px;
 }
 
+.cardDiv {
+    margin-bottom: 2rem;
+}
+
 .extraWords {
     font-size: 120%;
 }
@@ -25,4 +29,8 @@
 
 #milesPic:hover {
     content: url('../../images/sr-pm.gif')
+}
+
+#quanPic:hover {
+    content: url('https://media.giphy.com/media/PioTC8Q4BlwWTJQCPj/giphy.gif')
 }

@@ -20,7 +20,7 @@ function AboutMe() {
                                 <hr/>
                             <h6>Full Stack Web Developer with previous experience in Music Education. Effective communicator and passionate about optimizing team strategies. Self-motivated and goal-oriented to ensure work upholds high standards.
                                     <br/><br/>
-                                For the past 8 years, I've been teaching percussion to a variety of students from middle school through college in both southern and northern California. Recently, however, I have pivoted my career into Full Stack Web Development by enrolling in the UCB Extension's Coding Bootcamp! 
+                                For the past 8 years, I've been teaching percussion to a variety of students from middle school through college in both southern and northern California. Recently, however, I have pivoted my career into Full Stack Web Development by completing the UCB Extension's Coding Bootcamp! 
                             </h6>
                         </div>
                     </div>
