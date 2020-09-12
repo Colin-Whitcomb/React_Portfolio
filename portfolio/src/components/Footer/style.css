@@ -1,5 +1,12 @@
 .ftr {
-    background-color: lightslategray;
+    background-image: url('https://images.pexels.com/photos/2387793/pexels-photo-2387793.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500');
+}
+
+#Popover1 {
+    background-color: #f4f7f5;
+}
+#Popover2 {
+    background-color: #f4f7f5;
 }
 
 /* #phoneNum:hover {

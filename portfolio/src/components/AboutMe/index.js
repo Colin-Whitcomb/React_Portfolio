@@ -23,6 +23,7 @@ function AboutMe() {
                                     <br/><br/>
                                 For the past 8 years, I've been teaching percussion to a variety of students from middle school through college in both southern and northern California. Recently, however, I have pivoted my career into Full Stack Web Development by completing the UC Berkeley Extension Coding Bootcamp! 
                             </h6>
+                            
                         </div>
                     </div>
                         
