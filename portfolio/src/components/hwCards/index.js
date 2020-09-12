@@ -10,7 +10,7 @@ function HomeworkCards() {
             <h2 className="text-right hwHeader">Additional Assignments</h2>
             <hr></hr>
             <br/>
-            <div className="row">
+            <div className="row row1">
   
                   {/* SL */}
                   <div class="col-12 col-md-6 col-lg-4 cardDiv">

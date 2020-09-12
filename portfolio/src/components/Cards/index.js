@@ -14,7 +14,7 @@ function Cards() {
             <h2 className="mt-1" id="teamHeading">Team Projects</h2>
             <hr></hr>
     {/* ------------- Quan ---------- */}
-            <div className="row">
+            <div className="row cardSection">
 
                 <div class="col-12 col-md-6 col-lg-4 cardDiv">
                     <p><span class='extraWords'><b>Quan</b></span> is an investment app that provides a variety of investment strategies.</p>

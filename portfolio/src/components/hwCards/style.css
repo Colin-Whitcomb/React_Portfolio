@@ -1,9 +1,15 @@
 .hw {
     width: 18rem;
+    background-color: #f4f7f5;
 }
 
 .hw_img {
     height: 26vh;
+    background-color: #f4f7f5;
+}
+
+.row1 {
+    background-color: #f4f7f5;
 }
 
 

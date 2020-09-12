@@ -1,7 +1,12 @@
+.cardSection {
+    background-color: #f4f7f5;
+}
+
 .card {
     max-width: 330px;
     max-height:280px;
-    opacity: 0.85
+    opacity: 0.85;
+    background-color: #f4f7f5;
 }
 
 .card-img {
@@ -19,6 +24,7 @@
 
 .cardDiv {
     margin-bottom: 2rem;
+    background-color: #f4f7f5;
 }
 
 .extraWords {
