@@ -1,5 +1,6 @@
 import React from 'react';
 import headshot from '../../images/headshot.JPG';
+import headshot2 from '../../images/ss8.JPG';
 import './style.css';
 
 function AboutMe() {
@@ -10,7 +11,7 @@ function AboutMe() {
 
                     <div className='col-lg-4 col-md-6'>
                         <div className='text-center'>
-                            <img class="mr-3 mt-2 headShot rounded" src={headshot} alt="headShot"/>
+                            <img class="mr-3 mt-2 headShot rounded" src={headshot2} alt="headShot"/>
                         </div>
                     </div>
 

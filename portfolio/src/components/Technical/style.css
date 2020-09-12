@@ -1,12 +1,11 @@
 .logo {
-    max-height: 7rem;
-    margin-top: 2rem;
-    margin-right: 1rem;
-    margin-bottom: 1rem;
+    max-height: 4rem;
+    margin-right: 2rem;
+    margin-bottom: 2rem;
 }
 
 .tech {
-    background-color:white;
+    background-color: #f4f7f5;
     margin-top: 0;
 }
 

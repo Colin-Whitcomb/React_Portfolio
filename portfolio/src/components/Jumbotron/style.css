@@ -3,7 +3,10 @@
 }
 
 .jumbotron {
+    /* Rocks */
     background-image: url("https://images.unsplash.com/photo-1549645402-a9d655c5c344?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=60");
+    /* White */
+    /* background-image: url("https://images.pexels.com/photos/235994/pexels-photo-235994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"); */
     background-size: cover;
     padding: 2rem;
     margin-bottom: 0;
@@ -11,7 +14,7 @@
   }
 
 .row {
-    background-color:rgba(255,255,255, 0.8);
+    background-color:rgba(255,255,255, 0.7);
 }
 
 .name {
