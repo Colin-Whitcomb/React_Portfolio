@@ -20,6 +20,14 @@ function Footer(){
                         <a href="https://docs.google.com/document/d/1ft7R_n3xi_CKFITbdV4TJbNVcQ4nb2SSQ1qEhh4Kqig/edit?usp=sharing" target="_blank">
                             <img className="btn mb-4 linkImg" target="_blank" src="https://static.thenounproject.com/png/143185-200.png"></img>
                         </a>
+
+                        <a id='phoneNum'>
+                            <img className="btn mb-4 linkImg" target="_blank" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwDnoITDteCOJ9-ik0MD56eyCP4CJn-oobKQzkh7pD56ti-mkvHezcYWZEHOgXRYAQddO1WQviSb2sdGa4MiHuBIQMsduneVRd_g&usqp=CAU&ec=45699845"></img>
+                        </a>
+
+                        <a id='phoneNum'>
+                            <img className="btn mb-4 linkImg" target="_blank" src="https://image.flaticon.com/icons/png/512/8/8807.png"></img>
+                        </a>
                         <p>© 2020 Copyright</p>    
                 </div>
                 </div>
