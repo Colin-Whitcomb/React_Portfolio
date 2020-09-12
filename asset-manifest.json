@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/React_Portfolio/static/css/main.fabff228.chunk.css",
-    "main.js": "/React_Portfolio/static/js/main.37398024.chunk.js",
-    "main.js.map": "/React_Portfolio/static/js/main.37398024.chunk.js.map",
+    "main.css": "/React_Portfolio/static/css/main.d337e8c7.chunk.css",
+    "main.js": "/React_Portfolio/static/js/main.8671b745.chunk.js",
+    "main.js.map": "/React_Portfolio/static/js/main.8671b745.chunk.js.map",
     "runtime-main.js": "/React_Portfolio/static/js/runtime-main.446e9683.js",
     "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.446e9683.js.map",
-    "static/js/2.558b2731.chunk.js": "/React_Portfolio/static/js/2.558b2731.chunk.js",
-    "static/js/2.558b2731.chunk.js.map": "/React_Portfolio/static/js/2.558b2731.chunk.js.map",
+    "static/js/2.21651a48.chunk.js": "/React_Portfolio/static/js/2.21651a48.chunk.js",
+    "static/js/2.21651a48.chunk.js.map": "/React_Portfolio/static/js/2.21651a48.chunk.js.map",
     "index.html": "/React_Portfolio/index.html",
-    "precache-manifest.5e380c08ad79b31f7da8fca04bd421e8.js": "/React_Portfolio/precache-manifest.5e380c08ad79b31f7da8fca04bd421e8.js",
+    "precache-manifest.fba800bba84c72625ae0816c84a94356.js": "/React_Portfolio/precache-manifest.fba800bba84c72625ae0816c84a94356.js",
     "service-worker.js": "/React_Portfolio/service-worker.js",
-    "static/css/main.fabff228.chunk.css.map": "/React_Portfolio/static/css/main.fabff228.chunk.css.map",
-    "static/js/2.558b2731.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.558b2731.chunk.js.LICENSE.txt",
+    "static/css/main.d337e8c7.chunk.css.map": "/React_Portfolio/static/css/main.d337e8c7.chunk.css.map",
+    "static/js/2.21651a48.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.21651a48.chunk.js.LICENSE.txt",
     "static/media/WiP2.jpg": "/React_Portfolio/static/media/WiP2.e52d09b2.jpg",
     "static/media/headshot.JPG": "/React_Portfolio/static/media/headshot.501b8faf.JPG",
-    "static/media/miles2.jpg": "/React_Portfolio/static/media/miles2.3355924d.jpg",
-    "static/media/sr-pm.gif": "/React_Portfolio/static/media/sr-pm.3ad3cf7b.gif"
+    "static/media/miles2.jpg": "/React_Portfolio/static/media/miles2.32d7a3c8.jpg",
+    "static/media/sr-pm.gif": "/React_Portfolio/static/media/sr-pm.3ad3cf7b.gif",
+    "static/media/style.css": "/React_Portfolio/static/media/ss9.ff8e3d55.jpg",
+    "static/media/ss8.JPG": "/React_Portfolio/static/media/ss8.b13eb4a1.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.446e9683.js",
-    "static/js/2.558b2731.chunk.js",
-    "static/css/main.fabff228.chunk.css",
-    "static/js/main.37398024.chunk.js"
+    "static/js/2.21651a48.chunk.js",
+    "static/css/main.d337e8c7.chunk.css",
+    "static/js/main.8671b745.chunk.js"
   ]
 }
