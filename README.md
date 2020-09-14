@@ -10,7 +10,7 @@ Projects
 </h3>
 
 <p align="center">
-    <img src="portfolio/images/ss3.png" width="400" />
+    <img src="https://media.giphy.com/media/gIICWGIIO0O5fUkZNT/giphy.gif" width="400" />
 </p>
 
 ## Summary & Processs
