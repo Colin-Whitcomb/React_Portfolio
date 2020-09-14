@@ -21,12 +21,21 @@ I made a different layout for UI and design. I condensed the site into one page 
 
 Since I have been using Materialize for a while, I decided to go back to <a href="https://getbootstrap.com/">Bootstrap</a> to refresh on their components and grid system. 
 
-<h3 align="center">
-Project Cards 
-</h3>
+<h4 align="center">
+Projects 
+</h4>
 
 <p align="center">
     <img src="portfolio/images/ss18.png" width="400" />
+</p>
+
+
+<h4 align="center">
+Assignment Examples 
+</h4>
+
+<p align="center">
+    <img src="portfolio/images/ss17.png" width="400" />
 </p>
 
 
