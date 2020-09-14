@@ -6,11 +6,11 @@ Deployed <a href="https://colin-whitcomb.github.io/React_Portfolio/">Site</a>
 </h2>
 
 <h3 align="center">
-Projects
+About Me / Technical Skills
 </h3>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/gIICWGIIO0O5fUkZNT/giphy.gif" width="400" />
+    <img src="portfolio/images/ss19.png" width="400" />
 </p>
 
 ## Summary & Processs
@@ -21,24 +21,12 @@ I made a different layout for UI and design. I condensed the site into one page 
 
 Since I have been using Materialize for a while, I decided to go back to <a href="https://getbootstrap.com/">Bootstrap</a> to refresh on their components and grid system. 
 
-## Screenshots 
-
 <h3 align="center">
-
-Top of Page - Includes links to Github / LinkedIn
-</h3>
-
-
-<p align="center">
-    <img src="portfolio/images/ss5.png" width="400" />
-</p>
-
-<h3 align="center">
-About Me / Contact
+Project Cards 
 </h3>
 
 <p align="center">
-    <img src="portfolio/images/ss4.png" width="400" />
+    <img src="portfolio/images/ss18.png" width="400" />
 </p>
 
 
