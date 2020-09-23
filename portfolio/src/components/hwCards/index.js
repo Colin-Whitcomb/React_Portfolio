@@ -1,9 +1,15 @@
-import React from 'react';
+import React, { useState } from 'react';
 import './style.css';
 import wip from '../../images/WiP2.jpg';
+import { Button, Popover, PopoverHeader, PopoverBody } from 'reactstrap';
 // import Sushi from '../../images/'
 
 function HomeworkCards() {
+
+    const [popoverOpen3, setPopoverOpen3] = useState(false);
+
+    const toggle3 = () => setPopoverOpen3(!popoverOpen3);
+
     return(
         <div className="container" id="assignments">
             <br/>
@@ -105,7 +111,16 @@ function HomeworkCards() {
 
                         <a href="https://github.com/Colin-Whitcomb/Employee_Tracker" target="_blank" className='text-center ml-1'>
                             <button className="btn btn-dark">GitHub</button>
-                        </a>
+                            </a>
+
+                     
+                            <button className="btn btn-dark ml-1" id="Popover3">Tech</button>
+               
+                            <Popover placement="top" isOpen={popoverOpen3} target="Popover3" toggle={toggle3}>
+                            <PopoverHeader className='text-center'>Technologies Used</PopoverHeader>
+                            <PopoverBody>Node.js, mySQL, ES6, NPM, Inquirer</PopoverBody>
+                            </Popover>
+                         
                       
                 </div>
             <br></br>
