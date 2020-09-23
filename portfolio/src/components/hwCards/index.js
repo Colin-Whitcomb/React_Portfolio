@@ -6,9 +6,21 @@ import { Button, Popover, PopoverHeader, PopoverBody } from 'reactstrap';
 
 function HomeworkCards() {
 
+    // Tech Btn Functions: 
     const [popoverOpen3, setPopoverOpen3] = useState(false);
-
     const toggle3 = () => setPopoverOpen3(!popoverOpen3);
+
+    const [popoverOpen4, setPopoverOpen4] = useState(false);
+    const toggle4 = () => setPopoverOpen4(!popoverOpen4);
+
+    const [popoverOpen5, setPopoverOpen5] = useState(false);
+    const toggle5 = () => setPopoverOpen5(!popoverOpen5);
+
+    const [popoverOpen6, setPopoverOpen6] = useState(false);
+    const toggle6 = () => setPopoverOpen6(!popoverOpen6);
+
+    const [popoverOpen7, setPopoverOpen7] = useState(false);
+    const toggle7 = () => setPopoverOpen7(!popoverOpen7);
 
     return(
         <div className="container" id="assignments">
@@ -34,6 +46,12 @@ function HomeworkCards() {
                         <a href="https://github.com/Colin-Whitcomb/sushi_lover" target="_blank" className='text-center ml-1'>
                             <button className="btn btn-dark">GitHub</button>
                         </a>
+                          {/* Tech Btn */}
+                          <button className="btn btn-dark ml-1" id="Popover7">Tech</button>
+                            <Popover placement="top" isOpen={popoverOpen7} target="Popover7" toggle={toggle7}>
+                            <PopoverHeader className='text-center'>Technologies &#38; Concepts</PopoverHeader>
+                            <PopoverBody className='text-center'>MVC, mySQL, Node.js, ES6, Express, HandleBars, Heroku</PopoverBody>
+                            </Popover>
                 </div>
             <br></br>
             {/*  */}
@@ -54,6 +72,14 @@ function HomeworkCards() {
                         <a href="https://github.com/Colin-Whitcomb/work-day-scheduler" target="_blank" className='text-center ml-1'>
                             <button className="btn btn-dark">GitHub</button>
                         </a>
+
+                         {/* Tech Btn */}
+                         <button className="btn btn-dark ml-1" id="Popover6">Tech</button>
+                            <Popover placement="top" isOpen={popoverOpen6} target="Popover6" toggle={toggle6}>
+                            <PopoverHeader className='text-center'>Technologies Used</PopoverHeader>
+                            <PopoverBody>JavaScript, jQuery, HTML, CSS</PopoverBody>
+                            </Popover>
+
                 </div>
             <br></br>
             {/*  */}
@@ -75,6 +101,14 @@ function HomeworkCards() {
                         <a href="https://github.com/Colin-Whitcomb/password-generator" target="_blank" className='text-center ml-1'>
                             <button className="btn btn-dark">GitHub</button>
                         </a>
+
+                        {/* Tech Btn */}
+                        <button className="btn btn-dark ml-1" id="Popover5">Tech</button>
+                        <Popover placement="top" isOpen={popoverOpen5} target="Popover5" toggle={toggle5}>
+                        <PopoverHeader className='text-center'>Technologies Used</PopoverHeader>
+                        <PopoverBody>JavaScript, HTML, Bootstrap</PopoverBody>
+                        </Popover>
+
                 </div>
             <br></br>
             {/*  */}
@@ -95,33 +129,40 @@ function HomeworkCards() {
                         <a href="https://github.com/Colin-Whitcomb/note_taker" target="_blank" className='text-center ml-1'>
                             <button className="btn btn-dark">GitHub</button>
                         </a>
-                </div>
+
+                        {/* Tech Btn */}
+                        <button className="btn btn-dark ml-1" id="Popover4">Tech</button>
+                        <Popover placement="top" isOpen={popoverOpen4} target="Popover4" toggle={toggle4}>
+                        <PopoverHeader className='text-center'>Technologies Used</PopoverHeader>
+                        <PopoverBody>Node.js, Express.js, ES6, Heroku</PopoverBody>
+                        </Popover>
+
+                    </div>
             <br></br>
             {/*  */}
            
               {/* ET */}
               <div class="col-12 col-md-6 col-lg-4 cardDiv">
-                    <p><span class='extraWords'><b>Employee Tracker</b></span> allows the user to update and mangage employee details!</p>
+                    <p><span class='extraWords'><b>Employee Tracker</b></span> allows the user to update and mangage employee details!
+                    </p>
                                
-                        <div class="card bg-dark text-white">
-                            <img src='https://images.pexels.com/photos/3321797/pexels-photo-3321797.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500' className="card-img center-text" id='employeeTrackerPic' alt="..."/>
-                        </div>
+                    <div class="card bg-dark text-white">
+                        <img src='https://images.pexels.com/photos/3321797/pexels-photo-3321797.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500' className="card-img center-text" id='employeeTrackerPic' alt="..."/>
+                    </div>
 
                         <br></br>
 
                         <a href="https://github.com/Colin-Whitcomb/Employee_Tracker" target="_blank" className='text-center ml-1'>
                             <button className="btn btn-dark">GitHub</button>
-                            </a>
+                        </a>
 
-                     
+                            {/* Tech Btn */}
                             <button className="btn btn-dark ml-1" id="Popover3">Tech</button>
-               
                             <Popover placement="top" isOpen={popoverOpen3} target="Popover3" toggle={toggle3}>
                             <PopoverHeader className='text-center'>Technologies Used</PopoverHeader>
                             <PopoverBody>Node.js, mySQL, ES6, NPM, Inquirer</PopoverBody>
                             </Popover>
                          
-                      
                 </div>
             <br></br>
             {/*  */}
